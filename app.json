@@ -37,6 +37,13 @@
       "ios",
       "android",
       "web"
+    ],
+    "plugins": [
+      "expo-asset",
+      "expo-font",
+      "expo-image",
+      "expo-secure-store",
+      "expo-status-bar"
     ]
   }
 }
